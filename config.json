@@ -1,0 +1,11 @@
+{
+  "prefix": "+", 
+  "devs": ["676716074212786199"],
+  "nCategory":"TICKETS",
+  "ticketrole":"STAFF",
+  "limttick": 5,
+    "emojis": {
+        "instagram": "<:insta:735209584439853056>",
+        "twitter": "<:twitter:735209603003842702>"
+    }
+}
